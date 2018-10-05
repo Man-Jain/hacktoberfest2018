@@ -23,6 +23,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 * [rishabh-bansal/Make-a-Pull-Request](https://github.com/rishabh-bansal/Make-a-Pull-Request)
 * [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github)
 * [Hacktoberfest-2018/html-page/create-your-first-PR](https://github.com/abhilashk433/Hacktoberfest-2018)
+* [RaidAndFade/Hacktoberfest2018](https://github.com/RaidAndFade/Hacktoberfest2018)
 * [Resources-HacktoberFest2018](https://github.com/fs0sp/Resources-HacktoberFest2018)
  
 ## Bonus
